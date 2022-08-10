@@ -1,16 +1,14 @@
-# app
+# Music App 
 
-A new Flutter project.
+<h2> music page and play music page </h2>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91384732/183867975-9729d004-538e-41ec-ad16-e36b6c91c9e0.jpg" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/91384732/183868009-2c3177af-43a5-4286-90b7-b53ace22434d.jpg" width="300" height="600" />
+</p>
 
-## Getting Started
+<h2> services </h2>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/91384732/183868973-32dbc657-0fca-467d-94cf-f2997fb07701.jpg" width="300" height="600" />
+<img src="https://user-images.githubusercontent.com/91384732/183868988-cdbd40c1-1f38-41ec-81a8-1b0fd7b1738d.jpg" width="300" height="600" />
+</p>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
